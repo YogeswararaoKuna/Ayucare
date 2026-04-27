@@ -1,8 +1,9 @@
 const mongoose = require("mongoose");
 
 const quizSchema = new mongoose.Schema({
-  userId: String,
-  result: String   // Vata / Pitta / Kapha
+  name: String,
+  answers: Array,
+  result: String
 });
 
 module.exports = mongoose.model("Quiz", quizSchema);
