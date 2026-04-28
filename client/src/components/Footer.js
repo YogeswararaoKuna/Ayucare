@@ -33,9 +33,15 @@ function Footer() {
 
           {/* SOCIAL ICONS */}
           <div style={styles.icons}>
-            <a href="#"><i className="fab fa-facebook"></i></a>
-            <a href="#"><i className="fab fa-instagram"></i></a>
-            <a href="#"><i className="fab fa-linkedin"></i></a>
+            <a href="https://www.facebook.com" target="_blank" rel="noreferrer noopener" aria-label="Facebook">
+              <i className="fab fa-facebook"></i>
+            </a>
+            <a href="https://www.instagram.com" target="_blank" rel="noreferrer noopener" aria-label="Instagram">
+              <i className="fab fa-instagram"></i>
+            </a>
+            <a href="https://www.linkedin.com" target="_blank" rel="noreferrer noopener" aria-label="LinkedIn">
+              <i className="fab fa-linkedin"></i>
+            </a>
           </div>
         </div>
 

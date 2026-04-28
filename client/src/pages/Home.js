@@ -60,6 +60,7 @@ function Home() {
           >
             <img
               src="https://cdn-icons-png.flaticon.com/512/4320/4320371.png"
+              alt="Dosha Quiz icon"
               style={styles.icon}
             />
             <h3>Dosha Quiz</h3>
@@ -89,6 +90,7 @@ function Home() {
           >
             <img
               src="https://cdn-icons-png.flaticon.com/512/2921/2921822.png"
+              alt="Remedies Search icon"
               style={styles.icon}
             />
             <h3>Remedies Search</h3>
@@ -118,6 +120,7 @@ function Home() {
           >
             <img
               src="https://cdn-icons-png.flaticon.com/512/3043/3043882.png"
+              alt="Yoga Poses icon"
               style={styles.icon}
             />
             <h3>Yoga Poses</h3>
@@ -147,6 +150,7 @@ function Home() {
           >
             <img
               src="https://cdn-icons-png.flaticon.com/512/1046/1046857.png"
+              alt="Diet Plans icon"
               style={styles.icon}
             />
             <h3>Diet Plans</h3>
@@ -176,6 +180,7 @@ function Home() {
           >
             <img
               src="https://cdn-icons-png.flaticon.com/512/3774/3774299.png"
+              alt="Doctor Appointment icon"
               style={styles.icon}
             />
             <h3>Doctor Appointment</h3>
@@ -205,6 +210,7 @@ function Home() {
           >
             <img
               src="https://cdn-icons-png.flaticon.com/512/1170/1170678.png"
+              alt="Store icon"
               style={styles.icon}
             />
             <h3>Store</h3>
